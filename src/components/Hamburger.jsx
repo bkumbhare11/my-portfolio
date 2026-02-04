@@ -41,7 +41,9 @@ function Hamburger() {
             </li>
 
             <li className="hover:text-blue-500" onClick={() => setOpen(false)}>
-              <a href="projects">Resume</a>
+              <a href="https://drive.google.com/file/d/1G4kj8Gn6YTJam0TYzGMYWrtUzKXuHVwK/view?usp=sharing">
+                Resume
+              </a>
             </li>
           </ul>
         </div>

@@ -1,11 +1,9 @@
 import React from "react";
-// 1. Pehle import karo
 import profilePic from "../assets/my-photo.jpg";
 
 function Portfolio() {
   return (
     <div>
-      {/* 2. Variable ki tarah use karo */}
       <img src={profilePic} alt="Bhavesh" />
 
       <img src={umsThumb} alt="Nexus Project" />

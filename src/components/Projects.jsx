@@ -92,7 +92,6 @@ function Projects() {
             </ul>
           </div>
 
-          {/* Buttons ke upar ye add kar do */}
           <div className="bg-blue-50 border-l-4 border-blue-500 p-4 my-6 rounded-r-xl shadow-sm">
             <p className="text-sm font-bold text-blue-900 flex items-center gap-2">
               <span className=" bg-amber-400  p-1 rounded-md ">

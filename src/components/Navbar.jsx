@@ -23,7 +23,7 @@ function Navbar() {
         </ul>
       </nav>
       <a
-        href="https://drive.google.com/file/d/1ZIDBBrqB7t_RyRdt1whAlMK31VGuAsAc/view?usp=sharing"
+        href="https://drive.google.com/file/d/1pNuM--bo3acp88bQnSpsCD_1gp98cIZI/view?usp=sharing"
         target="_blank"
         className="bg-black text-white px-3 py-1 rounded-lg transition-all duration-300 ease-in-out hover:bg-blue-600 hidden md:block"
       >
